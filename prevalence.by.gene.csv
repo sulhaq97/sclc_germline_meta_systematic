@@ -1,0 +1,37 @@
+﻿id,Study,total_sclc,Gene,Event
+#5436,Liu 2022,75,ATM,1
+#530,Tlemsani 2021 (George cohort),79,ATM,1
+#5436,Liu 2022,75,BRCA1,2
+#751,Tian 2020,72,BRCA1,2
+#530,Tlemsani 2021,77,BRCA1,1
+#228,Mukherjee 2022,275,BRCA1,2
+#27,Wei 2023,199,BRCA1,1
+#712,Li 2020,23,BRCA2,1
+#5436,Liu 2022,75,BRCA2,1
+#347,Peng 2022,44,BRCA2,1
+#530,Tlemsani 2021,77,BRCA2,2
+#186,Wu 2023,133,BRCA2,1
+#228,Mukherjee 2022,275,BRCA2,2
+#27,Wei 2023,199,BRCA2,1
+#6117,Ul Haq 2024,67,BRIP1,1
+#530,Tlemsani 2021 (George cohort),79,BRIP1,2
+#6117,Ul Haq 2024,67,CHEK1,1
+#530,Tlemsani 2021,77,CHEK1,2
+#530,Tlemsani 2021 (George cohort),79,CHEK2,1
+#186,Wu 2023,133,CHEK2,1
+#228,Mukherjee 2022,275,CHEK2,2
+#530,Tlemsani 2021,77,GJB2,1
+#530,Tlemsani 2021 (George cohort),79,GJB2,3
+#530,Tlemsani 2021,77,MUTYH,4
+#530,Tlemsani 2021 (George cohort),79,MUTYH,2
+#228,Mukherjee 2022,275,MUTYH,7
+#530,Tlemsani 2021,77,PARK2,1
+#530,Tlemsani 2021 (George cohort),79,PARK2,1
+#228,Mukherjee 2022,275,PARK2,1
+#530,Tlemsani 2021,77,POLQ,1
+#530,Tlemsani 2021 (George cohort),79,POLQ,4
+#6117,Ul Haq 2024,67,SLFN11,1
+#530,Tlemsani 2021,77,SLFN11,1
+#5436,Liu 2022,75,TP53,1
+#530,Tlemsani 2021,77,TP53,1
+#228,Mukherjee 2022,275,TP53,1

@@ -1,0 +1,3 @@
+﻿Covidence #,Study,Year,Total N (SCLC only),% Limited Stage,Male (%),Median Age,% Never Smokers,% with personal history of cancer,% with family history of cancer,Ethnicity Studied,Pathogenic,HR_OS,HR_OS_95low,HR_OS_95high
+#6117,Ul Haq 2024,2024,67,0.42,64,68,11,16,63,Multiple,TRUE,0.5,0.18,1.39
+#530,Tlemsani 2021,2021,77,28.6,0.481,62,6.5,27.3,26,mixed,TRUE,0.92,0.55,1.54
